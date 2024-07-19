@@ -62,7 +62,7 @@ Please feel free to submit an issue or open an issue on this repository, if you 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or new features.
 I appreciate your support and look forward to making this product even better with your help!
 
-This project is licensed under the MIT License.
+**⚠️ This project is licensed under the MIT License.**
 
 ## ©️ Contact
 For more questions you can reach me through:  
